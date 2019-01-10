@@ -30,15 +30,15 @@
 	<input type="hidden" name="id" value="<?php echo $id; ?>">
 		<div class="form-group">
 			<label>firstname</label>
-			<input type="text" name="firstname" class="form-control" value="<?php echo $firstname;?>"placeholder="Enter your firstname" required>
+			<input type="text" name="firstname" class="form-control" value="<?php echo $firstname;?>"placeholder="Enter your firstname" required >
 		</div>
 		<div class="form-group">
 			<label>lastname</label>
-			<input type="text" name="lastname" class="form-control" value="<?php echo $lastname;?>"placeholder="Enter your lastname" required>
+			<input type="text" name="lastname" class="form-control" value="<?php echo $lastname;?>"placeholder="Enter your lastname" required >
 		</div>
 		<div class="form-group">
 			<label>address</label>
-			<input type="text" name="address" class="form-control" value="<?php echo $address;?>"placeholder="Enter your address" required>
+			<input type="text" name="address" class="form-control" value="<?php echo $address;?>"placeholder="Enter your address" required >
 		</div>
 		<div class="form-group">
 		<?php 
