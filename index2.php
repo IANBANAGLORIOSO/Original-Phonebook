@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>User Registration system using PHP and MySQL</title>
+	<title>User Registration</title>
 	<link rel="stylesheet" type="text/css"	href="style.css">
 	<link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
 	<script type = "text/javascript" src = "bootstrap/js/jquery-slim.min.js"></script>
